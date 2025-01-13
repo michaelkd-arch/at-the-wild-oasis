@@ -1,0 +1,9 @@
+{
+  "extends": "react-app"
+}
+
+// In this file we are telling eslint that basically
+// that we extend it with react-app rules that we are
+// installing, which will tell eslint about all react
+// specific eslint rules for example the useEffect
+// dependency array
